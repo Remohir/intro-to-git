@@ -27,6 +27,6 @@ Ian - Where all our snapshots are stored.
 - Merging a branch
 - Removing a branch
 
-		/----0----0----0
-	   /			  /
-0-----0----0----0----0
+		      /----0----0----0
+	         /	      /
+	  0-----0----0----0----0
